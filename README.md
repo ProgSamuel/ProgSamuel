@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @ProgSamuel
-- 👀 I’m interested in HTML, CSS, JAVA SCRIPT and Datebase.
-- 🌱 At the moment I'm taking the Full Stack Web Development course by Programador Br and a course on designing interfaces using Figma, on youtube. I'm also learning about Git and GitHub with Professor Gustavo Guanabara, in the Curso em vídeo.
-- 📫 To get in touch, send an email to progsamu@gmail.com
-- 📂 Soon I will post my first projects here.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Olá! Me chamo <strong> Samuel </strong> e não esqueça a <strong>Sua área</strong>.
+  <br>
+  <br>
+  No momento sou estudante de desenvolvimento web fullstack na GrowDev, e não trabalho na área no moemnto. E, faço o uso das seguintes linguagens linguagens: HTML, CSS, JAVASCRIPT e o framework Bootstrap.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong> HTML, CSS, JAVASCRIPT e o framework Bootstrap.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong> VS code, Figma, Git e GitHub </strong>
+</p>
+
+<p align="left">
+  💌 Você pode entrar em contato comigo por: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=progsamu@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-ramos-dev/" /></a>
+
+</p>  
 
 <!---
 ProgSamuel/ProgSamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
