@@ -1,6 +1,10 @@
-<h1 align="center">👋 Olá, me chamo Samuel Ramos</h1>
+
+<h1 align="center"> 👋 Me chamo Samuel Ramos</h1>
 
 <p align="center">
+  <a href="https://github.com/ProgSamuel" align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgSamuel&theme=dracula&show_icons=true" />
+  </a>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </p>
 
@@ -11,10 +15,7 @@
 
 <p align="left">
   🚀 <strong>Minhas Linguagens</strong> <br><br>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgSamuel&layout=compact&theme=dracula" alt="Linguagens Mais Usadas">
 </p>
 
 <p align="left">
