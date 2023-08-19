@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Samuel Ramos</h1>
+<h1 align="center">👋 Olá, me chamo Samuel Ramos</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
